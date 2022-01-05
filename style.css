@@ -1,0 +1,72 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+
+h1 {
+  color:#8FBC8F;
+  font-family:'Chakra Petch', sans-serif;
+}
+
+h2 {
+  color:#006400;
+  font-family: 'Noto Serif', serif;
+}
+
+p {
+  color:#B8860B;
+  font-family: 'Noto Serif', serif;
+}
+
+#introduction p {
+  margin-bottom: 40px;
+}
+
+a {
+  color:#808080;
+  font-family: 'Merriweather', serif;
+  text-decoration: none;
+  font-size: 20px
+}
+
+.btn-blue {
+  background-color: #F4A460;
+  padding: 10px;
+  color: #708090;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.btn-blue:hover {
+  color:black;
+  border: 2px solid #F4A460;
+  background-color: white;
+}
+
+.card-white {
+    text-align: center;
+    margin: 60px;
+    box-shadow: 0 10px 30px rgb(0 0 0 / 10%);
+    padding: 40px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.list-inline {
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+a.icon {
+  color: lightslategrey;
+  font-size: 50px;
+  display: inline-block;
+}
+
+a.icon:hover {
+  color: black;
+  display: inline-block;
+}
+
+ul {
+padding-inline: 0px;
+}
